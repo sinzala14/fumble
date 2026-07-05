@@ -1,0 +1,6 @@
+{
+  "name": "Fumble",
+  "description": "Learn how to navigate dating, improve your social skills, and avoid fumbling your conversations with interactive AI coaching, roleplay, and personalized tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
