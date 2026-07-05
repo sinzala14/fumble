@@ -4,7 +4,6 @@ whatsapp 0776840567 for help
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/ac9f9055-77a1-480b-bfa2-02120f7de629
 
 ## Run Locally
 
